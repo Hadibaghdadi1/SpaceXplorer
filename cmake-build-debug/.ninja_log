@@ -1,0 +1,11 @@
+# ninja log v5
+6	1786	7683366488370503	CMakeFiles/spaceXplorerV2.dir/main.c.obj	c0900c9a99423411
+13	1796	7683366488541245	CMakeFiles/spaceXplorerV2.dir/game.c.obj	c2944d55c598edf8
+1797	2003	7683366490572441	spaceXplorerV2.exe	c31b36a17e0b7642
+139	3824	7683488452275181	CMakeFiles/spaceXplorerV2.dir/main.c.obj	c0900c9a99423411
+11	428	7683489029612533	CMakeFiles/spaceXplorerV2.dir/main.c.obj	c0900c9a99423411
+31	476	7683489030121157	CMakeFiles/spaceXplorerV2.dir/game.c.obj	c2944d55c598edf8
+476	841	7683489033695626	spaceXplorerV2.exe	c31b36a17e0b7642
+24	486	7683500020165585	CMakeFiles/spaceXplorerV2.dir/main.c.obj	c0900c9a99423411
+34	557	7683500020883504	CMakeFiles/spaceXplorerV2.dir/game.c.obj	c2944d55c598edf8
+557	833	7683500023609237	spaceXplorerV2.exe	c31b36a17e0b7642

@@ -1,0 +1,5 @@
+You are an intrepid space explorer lost in deep space.
+Your mission is to collect space junk, avoid the dangerous asteroid,
+and find your way back home.
+
+Collect enough resources to win, but be careful of your fuel supply!
